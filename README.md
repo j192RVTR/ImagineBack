@@ -11,3 +11,5 @@ Hit the authenticate endpoint with either and copy the token that comes out into
 ![Screenshot (69)](https://user-images.githubusercontent.com/98780372/166298543-e846e487-05e9-4938-baf9-3d032ae7d886.png)
 
 Shamelessly inspired / mostly copied from https://www.javachinna.com/secure-spring-boot-rest-api-with-jwt-authentication-role-based-authorization-database/ and preceding articles.
+
+Except the MongoDB stuff. Ignore that.
